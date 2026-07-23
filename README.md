@@ -4,7 +4,7 @@ My Mac apps I use for productivity and more
 
 ## What
 
-This is a curated selection of Mac apps. All are free, and most are open source on GitHub. I use these on macOS 27.
+This is a curated selection of Mac apps. All are free, and most are open source on GitHub. I use these on macOS 26.
 
 ## General
 
