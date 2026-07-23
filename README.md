@@ -32,7 +32,7 @@ This is a curated selection of Mac apps. All are free, and most are open source 
 - [PDFgear: PDF Editor & Reader](https://www.pdfgear.com/) — PDF editor, iOS too
 - [Pixen](https://pixenapp.com/) — Pixel art editor
 - [Raycast](https://www.raycast.com/) — Spotlight replacement
-- [SuperWhisper](https://superwhisper.com/) — Dictation replacement with better AI and fast
+- [SuperWhisper](https://superwhisper.com/) — Dictation replacement with better local AI and faster
 
 ## Utility
 
@@ -49,6 +49,8 @@ This is a curated selection of Mac apps. All are free, and most are open source 
 - [Thaw](https://github.com/stonerl/Thaw) — Menu bar item hider
 - [Upscayl](https://upscayl.org/) — Local AI image upscaler
 - [VLC](https://www.videolan.org/vlc/) — Media player
+- [Battery](https://github.com/actuallymentor/battery) - Battery limiter
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents display from turning off
 
 ## Coding
 
@@ -60,11 +62,11 @@ This is a curated selection of Mac apps. All are free, and most are open source 
 
 - [ChatGPT](https://chatgpt.com/) — Codex free; great for coding custom utils and more
 - [Claude](https://claude.ai/) — Great for research and small app coding
-- [Perplexity](https://www.perplexity.ai/) — Up to date for quick questions
+- [Perplexity](https://www.perplexity.ai/) — Up-to-date for quick questions
 - [Ollama](https://ollama.com/) — Local AI
 - [MLX CLI/Python](https://github.com/ml-explore/mlx) — Better local AI
 
 ## Gaming
 
 - [CKAN](https://github.com/KSP-CKAN/CKAN) — Kerbal Space Program mod manager
-- [Nvidia GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) — Free cloud gaming
+- [Nvidia GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) — Free cloud gaming if you own the game
